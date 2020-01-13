@@ -5,9 +5,10 @@
   <properties size='1'>
     <property name='p2.timestamp' value='1243822502501'/>
   </properties>
-  <children size='3'>
+  <children size='4'>
     <child location='confidentiality'/>
     <child location='pcm2java4KeY'/>
     <child location='pcm2java'/>
+    <child location='ecore2log'/>
   </children>
 </repository>
